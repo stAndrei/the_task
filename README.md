@@ -1,6 +1,8 @@
 # The Task
 
-This task is to build the fake business model and predict revenue.
+This task is to build the fake business model and predict revenue. Find detailed task description at the bottom of this document.
+If something is unclear or incorrect in the description below - change it the way you think it should be.
+If something is taking too much time for you - drop, don't waste your time, work on other tasks.
 
 ------------------------------------------------------------------
 
