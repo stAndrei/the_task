@@ -1,0 +1,25 @@
+# Defult database is used by default.
+# Any models locating at app/models root directory will point to this database by default.
+default:
+  development: &common
+    adapter: sqlite3
+    database: the_task_development
+    min_messages: WARNING
+    pool: 5
+    encoding: unicode
+
+  test:
+    <<: *common
+    database: the_task_test
+
+statistics:
+  development: &common
+    adapter: sqlite3
+    database: statistics_development
+    min_messages: WARNING
+    pool: 5
+    encoding: unicode
+
+  test:
+    <<: *common
+    database: statistics
