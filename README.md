@@ -85,6 +85,7 @@ Calculate for any given period (set by user):
 - Top 5 best clients (based on total __revenue__ impact)
 - Top 5 worst clients
 - Best subcontractor (based on total __revenue__ impact). Think more about this one.
+- Worst Client by number of overdue days at the current moment
 
 ## Required performance
 
