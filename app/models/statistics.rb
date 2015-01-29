@@ -1,4 +1,4 @@
-class Statistica
+class Statistics
 
   def revenue
     gross_sales - payouts
